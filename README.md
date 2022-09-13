@@ -6,9 +6,9 @@ HTML | CSS | Javascript | React Redux | Node.js | Express | Postgres | Sequelize
 
 
 ## PROYECTOS
-### B2B Commodities APP
+### B2B Commodities APP (Grupal Proyect)
 Agosto/Sep 2022
-Front End Development.(React/Redux/HTML/CSS)
+- Front End Development.(React/Redux/HTML/CSS)
 - https://dev-commodities.vercel.app/
 
 ### Countries APP Agosto 2022
