@@ -1,5 +1,7 @@
 # Hi 👋, I'm Nicolas Sanchez Long
+from Buenos Aires- Argentina. I am 25 years old and I am in the final stage of a bootcamp of +800 hours. In this incorporate knowledge in HTML, CSS, Javascript, React, Node, Express, Sequelize, Postgres.
 
+I am currently looking for a job in a company whose values identify me and allow me to develop professionally, in order to achieve the proposed objectives and give my best for it.
 
 ## TECH SKILLS
 HTML | CSS | Javascript | React Redux | Node.js | Express | Postgres | Sequelize
