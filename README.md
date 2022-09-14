@@ -4,6 +4,9 @@
 ## TECH SKILLS
 HTML | CSS | Javascript | React Redux | Node.js | Express | Postgres | Sequelize
 
+## SOFT SKILLS
+Cooperation | Communicative | Logical Thinking | Critical Thinking | Creativity | Sociable | Collaborative
+
 
 
 
