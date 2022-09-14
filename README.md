@@ -20,7 +20,7 @@ Henry Boot Camp, Buenos Aires, Argentina.
 - https://github.com/NicoMSL/Countries-APP
 
 
-LinkedIn:
-https://www.linkedin.com/in/nicomsl/
-Contact:
-nsanchezlong@gmail.com
+### LinkedIn:
+#### https://www.linkedin.com/in/nicomsl/
+### Contact:
+#### nsanchezlong@gmail.com
